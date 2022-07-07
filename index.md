@@ -8,11 +8,11 @@ _Software tinkerer based in Madrid, Spain_ <br>
 
 **Software Engineer** @ [FLYWIRE](https://www.flywire.com/) _(March 2022 - Present)_ <br>
 Improvement & maintenance of Ruby, Java & React based solution. <br>
-  - Refactoring of overengineered solutions with multiple diferent implementations to obtain a simpler and more unified code and a constant response along multiple endpoints.
+  - Refactoring of overengineered solutions with multiple different implementations to obtain a simpler and more unified code with a constant response along multiple endpoints.
   - Development of new requested features.
-  - Paired development with coleeges both to learn or teach. <br>
+  - Paired development with colleges both to learn or teach. <br>
 
-**_Technologies used:_** Ruby, ROR (Ruby On Rails), Sinatra, Grape, Sql, Elastic Search, AWS, Agile.
+**_Technologies used:_** Ruby, ROR (Ruby On Rails), Sinatra, Grape, Sql, Docker, Elastic Search, AWS, Agile.
 <br><br>
 
 **Backend Engineer** @ [LaLiga](https://www.laliga.com/) _(September 2020 - March 2022)_ <br>
@@ -42,6 +42,15 @@ Integration of In-App Purchases APIs for both Google Play & Apple Store on Node.
   - Development of Python based Selenium Testing environment for Woocommerce Shops. <br>
 
 **_Technologies used:_** TypeScript, Node.js, Nest.js, TypeORM, Phyton, Luigi, PHP, Symfony, SQL, Redis, Docker, Kubernetes(k8s), Jenkins, Jira, AWS, Azure.
+<br><br>
+
+**IT Technician** @ [CENTERPLATE](https://centerplate.co.uk/) _(July 2018 - August 2019)_ <br>
+  - 68k unique phisical visitors per event.
+  - On site troubleshooting.
+  - Installation, configuration and maintenance of PoS systems and hardware along the Atletico de Madrid stadium.
+  - User guides creation and training on hardware & software use. <br>
+
+**_Technologies used:_** Payment Gateways, Verteda PoS, ICG PoS, IP Routing, Android
 <br><br>
 
 ## 📌 On The Side
