@@ -58,6 +58,7 @@ Integration of In-App Purchases APIs for both Google Play & Apple Store on Node.
 **Speaker at Dev Learings** @ [SECTURE](https://secture.com/) _(September 2020 - Present)_ <br>
 Created and taught programming lessons for my teammates.
 - How to structure the database of a no-code MVP to make it easier to migrate the solution to a code based solution?
+- SQL normalization introduction.
 - GrapthQL introductory lesson for developers.
   <br><br>
 
