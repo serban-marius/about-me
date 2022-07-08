@@ -1,6 +1,8 @@
 # Marius Serban
 
 _Software tinkerer based in Madrid, Spain_ <br>
+I start performing easily in any project as I'm a fast learner, bussines logic and code base are no problem. <br>
+Able to handle all the development process autonomously, that includes analysing the requirements, estimation, development, testing and deployment. <br>
 
 [Email](mailto:serban0marius@gmail.com) / [LinkedIn](https://www.linkedin.com/in/serban-marius/) / [GitHub](https://github.com/serban-marius/)
 
