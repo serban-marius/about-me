@@ -4,6 +4,8 @@ _Software tinkerer based in Madrid, Spain_ <br>
 I start performing easily in any project as I'm a fast learner, bussines logic and code base are no problem. <br>
 Able to handle all the development process autonomously, that includes analysing the requirements, estimation, development, testing and deployment. <br>
 
+**_Technonolgies I use:_** Typescript (Node, Deno), Java (Spring), Ruby (ROR, Sinatra, Grape), PHP (Symfony, Lavarel), Go, Python (Luigi), C# (.NET) & React.
+
 [Email](mailto:serban0marius@gmail.com) / [LinkedIn](https://www.linkedin.com/in/serban-marius/) / [GitHub](https://github.com/serban-marius/)
 
 ## 👩🏼‍💻 Engineering Experience
@@ -14,7 +16,7 @@ Improvement & maintenance of Ruby, Java & React based solution. <br>
   - Development of new requested features.
   - Paired development with colleges both to learn or teach. <br>
 
-**_Technologies used:_** Ruby, ROR (Ruby On Rails), Sinatra, Grape, Sql, Docker, Elastic Search, AWS, Agile.
+**_Technologies used:_** Ruby, ROR (Ruby On Rails), Sinatra, Grape, Sidekiq, RabbitMQ, Sql, Docker, Elastic Search, AWS, Agile.
 <br><br>
 
 **Backend Engineer** @ [LaLiga](https://www.laliga.com/) _(September 2020 - March 2022)_ <br>
