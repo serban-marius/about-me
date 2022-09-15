@@ -4,7 +4,12 @@ _Software tinkerer based in Madrid, Spain_ <br>
 I start performing easily in any project as I'm a fast learner, bussines logic and code base are no problem. <br>
 Able to handle all the development process autonomously, that includes analysing the requirements, estimation, development, testing and deployment. <br>
 
-**_Technonolgies I use:_** Typescript (Node, Deno, Vue, React), Java (Spring), Ruby (ROR, Sinatra, Grape), PHP (Symfony, Lavarel), Go, Python (Luigi, Selenium), C# (.NET) & React.
+**_Technonolgies I use:_** 
+  - **Languages**: Java (Spring), Typescript/JS (Node, Deno, Vue, React), Ruby (ROR, Sinatra, Grape), PHP (Symfony, Lavarel), Go, Python (Luigi) & C# (.NET)
+  - **DDBB/Cache**: SQL, Redis, Elasticsearch & MongoDB
+  - **Queue systems**: RabbitMQ, Sidekiq & Kafka
+  - **Containers**: Docker, Kubernetes & Vagrant
+  - **Hostings**: AWS, Azure & self-hosting
 
 [Email](mailto:serban0marius@gmail.com) / [LinkedIn](https://www.linkedin.com/in/serban-marius/) / [GitHub](https://github.com/serban-marius/)
 
@@ -16,7 +21,12 @@ Improvement & maintenance of Ruby, Java & React based solution. <br>
   - Development of new requested features.
   - Paired development with colleges both to learn or teach. <br>
 
-**_Technologies used:_** Ruby, ROR (Ruby On Rails), Sinatra, Grape, Java, Spring, Sidekiq, RabbitMQ, Sql, Docker, Elastic Search, AWS, Agile.
+**_Technologies used:_** 
+  - **Languages**: Ruby (ROR, Sinatra, Grape), Java (Spring) & Typescript/JS (Vue, React)
+  - **DDBB/Cache**: SQL, Elasticsearch & Redis
+  - **Queue systems**: RabbitMQ & Sidekiq
+  - **Containers**: Docker & Kubernetes
+  - **Hostings**: AWS
 <br><br>
 
 **Backend Engineer** @ [LaLiga](https://www.laliga.com/) _(September 2020 - March 2022)_ <br>
@@ -35,7 +45,12 @@ Integration of In-App Purchases APIs for both Google Play & Apple Store on Node.
   - Testing of the developed features.
   - Logs for all the notifications and purchases. <br>
 
-**_Technologies used:_** TypeScript, Node.js, Nest.js, TypeORM, Phyton, Luigi, PHP, Symfony, SQL, Redis, Docker, Kubernetes(k8s), Jenkins, Jira, AWS, Azure.
+**_Technologies used:_** 
+  - **Languages**: Typescript/JS (Node, React), PHP (Symfony) & Python (Luigi) 
+  - **DDBB/Cache**: SQL & Redis
+  - **Queue systems**: RabbitMQ
+  - **Containers**: Docker & Kubernetes
+  - **Hostings**: AWS & Azure
 <br><br>
 
 **Junior Software Developer** @ [KIMIA](https://kimiagroup.com/) _(June 2019 - September 2020)_ <br>
@@ -45,7 +60,12 @@ Integration of In-App Purchases APIs for both Google Play & Apple Store on Node.
   - Managed database of IP adresses.
   - Development of Python based Selenium Testing environment for Woocommerce Shops. <br>
 
-**_Technologies used:_** Phyton, PHP, Java, JavaScript, Go, Symfony, SQL, Redis, MongoDB, Docker, Jenkins, Jira, Selenium.
+**_Technologies used:_** 
+  - **Languages**: Java (Spring), PHP (Symfony), Go & Python (Selenium)
+  - **DDBB/Cache**: SQL, Redis, Elasticsearch & MongoDB
+  - **Queue systems**: RabbitMQ & Kafka
+  - **Containers**: Docker, Kubernetes & Vagrand
+  - **Hostings**: AWS & self-hosting 
 <br><br>
 
 **IT Technician** @ [CENTERPLATE](https://centerplate.co.uk/) _(July 2018 - August 2019)_ <br>
@@ -54,7 +74,7 @@ Integration of In-App Purchases APIs for both Google Play & Apple Store on Node.
   - Installation, configuration and maintenance of PoS systems and hardware along the Atletico de Madrid stadium.
   - User guides creation and training on hardware & software use. <br>
 
-**_Technologies used:_** Payment Gateways, Verteda PoS, ICG PoS, IP Routing, Android
+**_Technologies used:_** Payment Gateways, Verteda PoS, ICG PoS, IP Routing & Android
 <br><br>
 
 ## 📌 On The Side
