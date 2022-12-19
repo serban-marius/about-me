@@ -1,33 +1,30 @@
 # Marius Serban
 
-_Software tinkerer based in Madrid, Spain_ <br>
-I start performing easily in any project as I'm a fast learner, bussines logic and code base are no problem. <br>
-Able to handle all the development process autonomously, that includes analysing the requirements, estimation, development, testing and deployment. <br>
+_Software tinkerer based in Madrid, Spain._
 
-**_Technonolgies I use:_** 
+I am a fast learner who is able to handle the full development process autonomously, including analyzing requirements, estimation, development, testing, and deployment. I am adept at working in a variety of languages and technologies, including Java, Typescript/JS, Ruby, PHP, Go, Python, and C#. I have experience working with databases, cache systems, queue systems, containers, and hosting platforms such as AWS, Azure, and self-hosting.
+
+Contact me:
+- Email: serban0marius@gmail.com
+- LinkedIn: https://www.linkedin.com/in/serban-marius/
+- GitHub: https://github.com/serban-marius/
+
+**_Skills:_** 
   - **Languages**: Java (Spring), Typescript/JS (Node, Deno, Vue, React), Ruby (ROR, Sinatra, Grape), PHP (Symfony, Lavarel), Go, Python (Luigi) & C# (.NET)
-  - **DDBB/Cache**: SQL, Redis, Elasticsearch & MongoDB
+  - **Databases/Cache**: SQL, Redis, Elasticsearch & MongoDB
   - **Queue systems**: RabbitMQ, Sidekiq & Kafka
   - **Containers**: Docker, Kubernetes & Vagrant
-  - **Hostings**: AWS, Azure & self-hosting
+  - **Hosting**: AWS, Azure & self-hosting
 
-[Email](mailto:serban0marius@gmail.com) / [LinkedIn](https://www.linkedin.com/in/serban-marius/) / [GitHub](https://github.com/serban-marius/)
-
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 Work Experience
 
 **Software Engineer** @ [FLYWIRE](https://www.flywire.com/) _(March 2022 - Present)_ <br>
-Improvement & maintenance of Ruby, Java & React based solution. <br>
-  - Refactoring of overengineered solutions with multiple different implementations to obtain a simpler and more unified code with a constant response along multiple endpoints.
-  - Development of new requested features.
-  - Paired development with colleges both to learn or teach. <br>
+Improved and maintained Ruby, Java, and React based solution.
+  - Refactored overengineered solutions to achieve a simpler and more unified code with a constant response across multiple endpoints.
+  - Developed new requested features.
+  - Paired development with colleagues to learn and teach.
 
-**_Technologies used:_** 
-  - **Languages**: Ruby (ROR, Sinatra, Grape), Java (Spring) & Typescript/JS (Vue, React)
-  - **DDBB/Cache**: SQL, Elasticsearch & Redis
-  - **Queue systems**: RabbitMQ & Sidekiq
-  - **Containers**: Docker & Kubernetes
-  - **Hostings**: AWS
-<br><br>
+_Technologies used:_ Ruby (ROR, Sinatra, Grape), Java (Spring), Typescript/JS (Vue, React), SQL, Elasticsearch, Redis, RabbitMQ, Sidekiq, Docker, Kubernetes, AWS
 
 **Backend Engineer** @ [LaLiga](https://www.laliga.com/) _(September 2020 - March 2022)_ <br>
 Improvement & maintenance of Node.js + PHP + Python based solution. <br>
@@ -45,13 +42,7 @@ Integration of In-App Purchases APIs for both Google Play & Apple Store on Node.
   - Testing of the developed features.
   - Logs for all the notifications and purchases. <br>
 
-**_Technologies used:_** 
-  - **Languages**: Typescript/JS (Node, React), PHP (Symfony) & Python (Luigi) 
-  - **DDBB/Cache**: SQL & Redis
-  - **Queue systems**: RabbitMQ
-  - **Containers**: Docker & Kubernetes
-  - **Hostings**: AWS & Azure
-<br><br>
+_Technologies used:_ Typescript/JS (Node, React), PHP (Symfony), Python (Luigi), SQL, Redis, RabbitMQ, Docker, Kubernetes, AWS, Azure
 
 **Junior Software Developer** @ [KIMIA](https://kimiagroup.com/) _(June 2019 - September 2020)_ <br>
   - Development, improvement & maintenance of PHP based solution.
@@ -60,13 +51,7 @@ Integration of In-App Purchases APIs for both Google Play & Apple Store on Node.
   - Managed database of IP adresses.
   - Development of Python based Selenium Testing environment for Woocommerce Shops. <br>
 
-**_Technologies used:_** 
-  - **Languages**: Java (Spring), PHP (Symfony), Go & Python (Selenium)
-  - **DDBB/Cache**: SQL, Redis, Elasticsearch & MongoDB
-  - **Queue systems**: RabbitMQ & Kafka
-  - **Containers**: Docker, Kubernetes & Vagrand
-  - **Hostings**: AWS & self-hosting 
-<br><br>
+_Technologies used:_ Java (Spring), PHP (Symfony), Go & Python (Selenium), SQL, Redis, Elasticsearch & MongoDB, RabbitMQ & Kafka, Docker, Kubernetes & Vagrand, AWS & self-hosting 
 
 **IT Technician** @ [CENTERPLATE](https://centerplate.co.uk/) _(July 2018 - August 2019)_ <br>
   - 68k unique phisical visitors per event.
@@ -74,8 +59,7 @@ Integration of In-App Purchases APIs for both Google Play & Apple Store on Node.
   - Installation, configuration and maintenance of PoS systems and hardware along the Atletico de Madrid stadium.
   - User guides creation and training on hardware & software use. <br>
 
-**_Technologies used:_** Payment Gateways, Verteda PoS, ICG PoS, IP Routing & Android
-<br><br>
+_Technologies used:_ Payment Gateways, Verteda PoS, ICG PoS, IP Routing & Android
 
 ## 📌 On The Side
 
