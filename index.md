@@ -95,7 +95,7 @@ Created and taught programming lessons for my teammates.
 
 ## 👩🏼‍🎓 Education
 
-**Web Appliactions Developer**<br>
+**Web Applications Developer**<br>
 [Colegio Valle del Miro](https://www.colegiovalledelmiro.es/) - Valdemoro, Madrid _(2017 - 2019)_
 
 **IT Technician & Network Admin**<br>
