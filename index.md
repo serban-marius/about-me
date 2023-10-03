@@ -6,8 +6,8 @@ I am a fast learner who is able to handle the full development process autonomou
 
 Contact me:
 - Email: serban0marius@gmail.com
-- LinkedIn: https://www.linkedin.com/in/serban-marius/
-- GitHub: https://github.com/serban-marius/
+- [LinkedIn](https://www.linkedin.com/in/serban-marius/)
+- [GitHub](https://github.com/serban-marius/)
 
 **_Skills:_** 
   - **Languages**: Java (Spring), Typescript/JS (Node, Deno, Vue, React), Ruby (ROR, Sinatra, Grape), PHP (Symfony, Lavarel), Go, Python (Luigi) & C# (.NET)
@@ -18,7 +18,12 @@ Contact me:
 
 ## 👩🏼‍💻 Work Experience
 
-**Software Engineer** @ [FLYWIRE](https://www.flywire.com/) _(March 2022 - Present)_ <br>
+**Software Engineer - Freelance** @ [SECTURE](https://secture.com) _(April 2023 - Present)_ <br>
+Freelancing for OnCall duties. 
+- Maintaining services up.
+- Ensure swift recovery from downtimes.
+
+**Software Engineer** @ [FLYWIRE](https://www.flywire.com/) _(March 2022 - April 2023)_ <br>
 Improved and maintained Ruby, Java, and React based solution.
   - Refactored overengineered solutions to achieve a simpler and more unified code with a constant response across multiple endpoints.
   - Developed new requested features.
@@ -26,7 +31,7 @@ Improved and maintained Ruby, Java, and React based solution.
 
 _Technologies used:_ Ruby (ROR, Sinatra, Grape), Java (Spring), Typescript/JS (Vue, React), SQL, Elasticsearch, Redis, RabbitMQ, Sidekiq, Docker, Kubernetes, AWS
 
-**Backend Engineer** @ [LaLiga](https://www.laliga.com/) _(September 2020 - March 2022)_ <br>
+**Backend Engineer** @ [LALIGA](https://www.laliga.com/) _(September 2020 - March 2022)_ <br>
 Improvement & maintenance of Node.js + PHP + Python based solution. <br>
   - Fixes of reported or found bugs.
   - Refactoring of the existent code base.
