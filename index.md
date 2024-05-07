@@ -84,6 +84,9 @@ Created and taught programming lessons for my teammates.
 
 ## 👩🏼‍🎓 Education
 
+**Digital Product Management**<br>
+[Nuclio Digital School](https://nuclio.school) - Madrid _(2024)_
+
 **Web Applications Developer**<br>
 [Colegio Valle del Miro](https://www.colegiovalledelmiro.es/) - Valdemoro, Madrid _(2017 - 2019)_
 
