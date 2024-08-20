@@ -18,10 +18,18 @@ Contact me:
 
 ## 👩🏼‍💻 Work Experience
 
+**Software Engineer - Freelance** @ [GRUPOCOBSA] _(July 2024 - Present)_ <br>
+Freelancing for rebuilding the corporative & sales website.
+  - Building a new website from scratch.
+  - Building a backend service to manage products & Stripe integration.
+  - Focusing on SEO & usability.
+
+_Technologies used:_ Astro (JS Framework), Typescript/JS (Vue, React), SQLite, Docker, CloudFlare Pages & Workers
+
 **Software Engineer - Freelance** @ [SECTURE](https://secture.com) _(April 2023 - Present)_ <br>
 Freelancing for OnCall duties. 
-- Maintaining services up.
-- Ensure swift recovery from downtimes.
+  - Maintaining services up.
+  - Ensure swift recovery from downtimes.
 
 **Software Engineer** @ [FLYWIRE](https://www.flywire.com/) _(March 2022 - April 2023)_ <br>
 Improved and maintained Ruby, Java, and React based solution.
@@ -30,6 +38,11 @@ Improved and maintained Ruby, Java, and React based solution.
   - Paired development with colleagues to learn and teach.
 
 _Technologies used:_ Ruby (ROR, Sinatra, Grape), Java (Spring), Typescript/JS (Vue, React), SQL, Elasticsearch, Redis, RabbitMQ, Sidekiq, Docker, Kubernetes, AWS
+
+**QA Engineer** @ [TESTERWORK](https://testerwork.com) _(August 2020 - Present)_ <br>
+Software & Hardware Testing
+  - Conducted comprehensive test cases for major application releases featuring significant functionality changes. Projects include platforms such as Facebook, TripAdvisor, Instagram, Opera Crypto Wallet and more.
+  - Performed detailed testing on hardware and software combinations, such as the Ray-Ban Meta Glasses, ensuring seamless user experiences and robust performance.
 
 **Backend Engineer** @ [LALIGA](https://www.laliga.com/) _(September 2020 - March 2022)_ <br>
 Improvement & maintenance of Node.js + PHP + Python based solution. <br>
@@ -70,9 +83,9 @@ _Technologies used:_ Payment Gateways, Verteda PoS, ICG PoS, IP Routing & Androi
 
 **Speaker at Dev Learings** @ [SECTURE](https://secture.com/) _(September 2020 - Present)_ <br>
 Created and taught programming lessons for my teammates.
-- How to structure the database of a no-code MVP to make it easier to migrate the solution to a code based solution?
-- SQL normalization introduction.
-- GrapthQL introductory lesson for developers.
+  - How to structure the database of a no-code MVP to make it easier to migrate the solution to a code based solution?
+  - SQL normalization introduction.
+  - GrapthQL introductory lesson for developers.
   <br><br>
 
 ## 💬 Languages
