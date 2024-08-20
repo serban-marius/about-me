@@ -18,7 +18,7 @@ Contact me:
 
 ## 👩🏼‍💻 Work Experience
 
-**Software Engineer - Freelance** @ [GRUPOCOBSA] _(July 2024 - Present)_ <br>
+**Software Engineer - Freelance** @ GRUPOCOBSA _(July 2024 - Present)_ <br>
 Freelancing for rebuilding the corporative & sales website.
   - Building a new website from scratch.
   - Building a backend service to manage products & Stripe integration.
