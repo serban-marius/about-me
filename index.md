@@ -10,7 +10,7 @@ Contact me:
 - [GitHub](https://github.com/serban-marius/)
 
 **_Skills:_** 
-  - **Languages**: Java (Spring), Typescript/JS (Node, Deno, Vue, React), Ruby (ROR, Sinatra, Grape), PHP (Symfony, Lavarel), Go, Python (Luigi) & C# (.NET)
+  - **Languages**: Java (Spring), Typescript/JS (Node, Deno, Astro, Vue, React), Ruby (ROR, Sinatra, Grape), PHP (Symfony, Lavarel), Go, Python (Luigi) & C# (.NET)
   - **Databases/Cache**: SQL, Redis, Elasticsearch & MongoDB
   - **Queue systems**: RabbitMQ, Sidekiq & Kafka
   - **Containers**: Docker, Kubernetes & Vagrant
